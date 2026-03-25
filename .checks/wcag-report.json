@@ -49,14 +49,14 @@
         "target": [
           ".head:nth-child(2) > dl:nth-child(4) > dd:nth-child(15) > a"
         ],
-        "html": "<a href=\"https://github.com/Geonovum/md-VTM/commits/gh-pages\">Revisiehistorie<!---0.345567%--></a>",
+        "html": "<a href=\"https://github.com/Geonovum/md-VTM/commits/gh-pages\">Revisiehistorie<!---0.959956%--></a>",
         "failureSummary": "Fix any of the following:\n  Target has insufficient size (96.1px by 17px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
       },
       {
         "target": [
           ".head:nth-child(2) > dl:nth-child(4) > dd:nth-child(16) > a"
         ],
-        "html": "<a href=\"https://github.com/Geonovum/md-VTM/pulls/\">Pull requests<!---0.345567%--></a>",
+        "html": "<a href=\"https://github.com/Geonovum/md-VTM/pulls/\">Pull requests<!---0.959956%--></a>",
         "failureSummary": "Fix any of the following:\n  Target has insufficient size (85.4px by 17px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
       },
       {
